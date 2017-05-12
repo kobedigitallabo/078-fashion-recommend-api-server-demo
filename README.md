@@ -20,7 +20,7 @@ APIサーバーは画像分類にPythonで作成された深層学習モデル�
 
 [tensorflow](https://github.com/tensorflow/tensorflow)  
 [keras](https://github.com/fchollet/keras)  
-[metaplotlib](https://github.com/matplotlib/matplotlib)  
+[matplotlib](https://github.com/matplotlib/matplotlib)  
 [pillow](https://github.com/python-pillow/Pillow)  
 [numpy](https://github.com/numpy/numpy)  
 [fire](https://github.com/google/python-fire)  
